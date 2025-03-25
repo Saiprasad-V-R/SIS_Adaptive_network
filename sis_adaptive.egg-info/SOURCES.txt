@@ -1,0 +1,10 @@
+setup.py
+sis_adaptive/__init__.py
+sis_adaptive/effective_degree.py
+sis_adaptive/gillespie.py
+sis_adaptive/utils.py
+sis_adaptive.egg-info/PKG-INFO
+sis_adaptive.egg-info/SOURCES.txt
+sis_adaptive.egg-info/dependency_links.txt
+sis_adaptive.egg-info/requires.txt
+sis_adaptive.egg-info/top_level.txt
