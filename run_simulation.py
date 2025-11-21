@@ -5,8 +5,6 @@ import matplotlib.pyplot as plt
 from collections import defaultdict, Counter
 
 
-# Paste your simulation + plotting code here exactly as in your notebook
-# Parameters
 initial_size = 100
 n = 1000  # Number of nodes
 m = 1900  # Number of edges
@@ -20,7 +18,7 @@ alpha = 0.05
 iterations = 5
 M_min = 6
 I_mid = 200
-k_value = 0.05  # Avoid conflict with variable name
+k_value = 0.05  
 G = nx.gnm_random_graph(n, m)
 
 # Calculate max degree for M_max
